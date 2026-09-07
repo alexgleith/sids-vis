@@ -1,7 +1,14 @@
 # Visualizing Small Island Developing States in a World Map
 
-Select an equal-area projection and rotate the map to view world data inclusive of Small Island Developing States (SIDS).
+An interactive D3.js map of Small Island Developing States (SIDS). Select a projection and rotate the map to explore the world data.
 
-Modified from the [original](https://github.com/GIP-ITC-UniversityTwente/SIDS).
+## View the map
 
-This work was based on the work of [__alexmacy__](https://gist.github.com/alexmacy) in  https://bl.ocks.org/alexmacy/6700d44240d2b6d3ec9767a5a5854e42 and [__lcalisto__](https://github.com/lcalisto) in https://github.com/GIP-ITC-UniversityTwente/globe-spinner
+[Open the map on GitHub Pages](https://alexgleith.github.io/sids-vis/)
+
+## Credits
+
+This project was adapted from the [GIP-ITC-UniversityTwente SIDS project](https://github.com/GIP-ITC-UniversityTwente/SIDS), with inspiration from:
+
+- [alexmacy's projection example](https://bl.ocks.org/alexmacy/6700d44240d2b6d3ec9767a5a5854e42)
+- [lcalisto's globe spinner](https://github.com/GIP-ITC-UniversityTwente/globe-spinner)
