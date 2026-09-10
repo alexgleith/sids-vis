@@ -20,7 +20,8 @@ var options = [
 	{name: "Eckert IV", projection: d3.geoEckert4().scale(175)},
 	{name: "Mollweide", projection: d3.geoMollweide().scale(165)},
 	{name: "Equal Earth", projection: d3.geoEqualEarth().scale(165)},
-	{name: "Mercator", projection: d3.geoMercator().scale(125)}
+	{name: "Mercator", projection: d3.geoMercator().scale(125)},
+	{name: "Peters", projection: d3.geoCylindricalEqualArea().scale(125)}
 	];
 
 /**
